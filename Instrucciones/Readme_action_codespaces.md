@@ -1,4 +1,4 @@
-### Este codespace tiene un shell que levanta un servidor para la bse de datos.
+### Este codespace tiene un shell que levanta un servidor para la base de datos.
 
 Una vez abierto el codespaces, teclea docker-compose up -d 
 
