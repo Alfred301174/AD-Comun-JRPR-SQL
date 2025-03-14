@@ -13,10 +13,10 @@ Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este reposit
 
 # **Ejercicio: Uso de HTML, CSS y JS (Aviso: Este ejercicio forma parte de 3 en total)**
 
-Prerrequisito: Haber tomado los cursos internos de HTML, CSS y JavaScript.
+Prerrequisito: Haber tomado los cursos internos de SQL (Structure Language Query).
 
 # **Objetivos:**
-Leer y seguir los pasos del documento Ejercicio_Comun_SWENG_TRJRPR y completar las tareas descritas correspondientes a la sección "Temas: HTML, JS, CSS."
+Leer y seguir los pasos del documento Ejercicio_Comun_SWENG_TRJRPR y completar las tareas descritas correspondientes a la sección "Temas: SQL (Structure Language Query)."
 
 # **Cómo evaluar:**
 Este ejercicio forma parte de 3 en total, la siguiente tabla muestra cómo se tomarán las entregas para la calificación.
