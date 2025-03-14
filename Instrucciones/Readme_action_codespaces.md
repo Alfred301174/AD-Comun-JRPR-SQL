@@ -12,9 +12,14 @@ Para acceder a la base de datos usa estas instrucciones
 
 docker exec -it ad-comun-jrpr-sql-mysql-1 /bin/bash
 
-
+![Descripción de la imagen](../Imagenes/Img56.png) 
 
 mysql -h localhost -u user -ppassword
+
+![Descripción de la imagen](../Imagenes/Img57.png) 
+
 use DB_EjercicioComunJRPR;
+
 show tables;
 
+![Descripción de la imagen](../Imagenes/Img58.png) 
