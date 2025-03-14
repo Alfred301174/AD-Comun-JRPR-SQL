@@ -14,12 +14,18 @@ docker exec -it ad-comun-jrpr-sql-mysql-1 /bin/bash
 
 ![Descripción de la imagen](../Imagenes/Img56.png) 
 
-mysql -h localhost -u user -ppassword
+una vez dentro escribe: mysql -h localhost -u user -ppassword
+
+Estarás dentro la base de datos.
 
 ![Descripción de la imagen](../Imagenes/Img57.png) 
+
+Escribe las siguientes instrucciones:
 
 use DB_EjercicioComunJRPR;
 
 show tables;
 
 ![Descripción de la imagen](../Imagenes/Img58.png) 
+
+Aqui ya puedes ejecutar tus scripts.
