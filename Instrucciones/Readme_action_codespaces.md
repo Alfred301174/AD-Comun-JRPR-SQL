@@ -1,6 +1,7 @@
 ### Este codespace tiene un shell que levanta un servidor para la bse de datos.
 
-Una vez abierto el codespaces, teclea sh up.sh y da enter.
+Una vez abierto el codespaces, teclea docker-compose up -d 
+espera 2 minutos y teclea sh up.sh y da enter.
 
 Deberias ver una imagen como la siguiente:
 
