@@ -4,7 +4,7 @@ Una vez abierto el codespaces, teclea docker-compose up -d
 
 ![Descripción de la imagen](../Imagenes/Img59.png) 
 
-espera 2 minutos y teclea sh up.sh y da enter.
+espera 2 minutos para que el contenedor de base de datos levante y teclea sh up.sh, da enter.
 
 Deberias ver una imagen como la siguiente:
 
