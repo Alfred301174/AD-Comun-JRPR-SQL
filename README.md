@@ -11,7 +11,7 @@ Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este reposit
 [Ver](Instrucciones/Readme_action_codespaces.md)
 
 
-# **Ejercicio: Uso de HTML, CSS y JS (Aviso: Este ejercicio forma parte de 3 en total)**
+# **Ejercicio: Uso de SQL (Structure Language Query). (Aviso: Este ejercicio forma parte de 3 en total)**
 
 Prerrequisito: Haber tomado los cursos internos de SQL (Structure Language Query).
 
