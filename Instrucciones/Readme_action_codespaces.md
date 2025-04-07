@@ -6,7 +6,7 @@
 
 espera 2 minutos para que el contenedor de base de datos levante y teclea sh up.sh, da enter.
 
-2.-Deberias ver una imagen como la siguiente:
+2.-Deberías ver una imagen como la siguiente:
 
 ![Descripción de la imagen](../Imagenes/Img51.png) 
 
