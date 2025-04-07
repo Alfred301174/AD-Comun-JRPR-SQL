@@ -18,7 +18,7 @@ docker exec -it ad-comun-jrpr-sql-mysql-1 /bin/bash
 
 ![Descripción de la imagen](../Imagenes/Img56.png) 
 
-4.-una vez dentro escribe: mysql -h localhost -u user -ppassword
+4.-Una vez dentro escribe: mysql -h localhost -u user -ppassword
 
 Estarás dentro la base de datos.
 
