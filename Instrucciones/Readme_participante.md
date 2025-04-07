@@ -1,7 +1,7 @@
 ### Indicaciones para el Participante
 1.-Recibirás una notificación, se verá en tu github como la siguiente pantalla.
 
-![Descripción de la imagen](../imagenes/Img6.png)
+![Descripción de la imagen](../Imagenes/Img6.png)
 
 2.-La notificación es similar a un correo.
 
